@@ -1,3 +1,3 @@
 # References
-
-* octocat 1 😈
+- John Doe, NOAA NMFS
+- Jane Doe, NOAA NMFS
